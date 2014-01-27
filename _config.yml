@@ -1,1 +1,3 @@
 baseurl: /zljblogs
+pygments: true
+markdown: rdiscount
